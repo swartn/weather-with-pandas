@@ -1,6 +1,6 @@
 Weather with Pandas
 ===================
-Neil.Swart@ec.gc.ca
+Neil.Swart@ec.gc.ca : 
 [webpage](http://www.ec.gc.ca/scitech/default.asp?lang=En&n=F97AE834-1&xsl=scitechprofile&formid=ED5D3E11-3057-4B38-AAFA-6FC103C0451E)
 
 The ipython notebook pandas_intro.ipynb provides a basic introduction
