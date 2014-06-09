@@ -1,0 +1,3 @@
+<class 'pandas.tseries.index.DatetimeIndex'>
+[2012-01-01, ..., 2012-12-31]
+Length: 366, Freq: None, Timezone: None

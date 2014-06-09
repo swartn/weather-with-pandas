@@ -1,0 +1,20 @@
+Year                         2012.000000
+Month                           6.513661
+Day                            15.756831
+Data Quality                         NaN
+Max Temp (�C)                  14.179508
+Max Temp Flag                        NaN
+Min Temp (�C)                   5.578142
+Min Temp Flag                        NaN
+Mean Temp (�C)                  9.902186
+Mean Temp Flag                       NaN
+Heat Deg Days (�C)              8.173224
+Heat Deg Days Flag                   NaN
+Cool Deg Days (�C)              0.075410
+Cool Deg Days Flag                   NaN
+Total Rain (mm)                 2.597541
+Total Snow (cm)                 0.037705
+Total Precip (mm)               2.633607
+Snow on Grnd (cm)               0.040984
+Dir of Max Gust (10s deg)      19.315789
+dtype: float64
