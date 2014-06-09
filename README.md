@@ -13,3 +13,5 @@ years worth of data, if you have an interest in pursuing further analyses.
 You can also explore the data at: 
 
 http://climate.weather.gc.ca/data_index_e.html
+
+To view the notebook online go to the nbviewer [here](http://nbviewer.ipython.org/github/swartn/weather-with-pandas/blob/master/pandas_intro.ipynb)
